@@ -231,7 +231,7 @@ Eu como garçom/garçonete quero ver os pedidos que estão prontos para entregá
 
 ***
 
-## Imagens
+## Interface do produto
 ![img3](images/img3.png)
 ![img2](images/img2.png)
 ![img4](images/img4.png)
