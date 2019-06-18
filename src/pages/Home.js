@@ -47,7 +47,7 @@ class Home extends React.Component {
     return (
       <div>
         <div className="page">
-          <div className="form">
+          <div className="form form-login">
             <Input value={this.state.email} placeholder="Digite seu email" onChange={(e) => this.handleChange(e, "email")} />
             <Input type="password" value={this.state.password} placeholder="Digite sua senha" onChange={(e) => this.handleChange(e, "password")} />
             <p className="error">{this.state.error}</p>
