@@ -152,11 +152,11 @@ body {
   padding: 1vh;
 }
 
-@media only screen and (max-height:768px) and (max-width: 768px) {
+@media only screen and (max-height:768px) and (max-width: 768px) and (min-width: 320px) {
   .form {
     position: relative;
     background: #FFFFFF;
-    width: 65vh;
+    width: 35vh;
     margin: 0px auto 0.67em;
     padding: 12px;
     text-align: center;
