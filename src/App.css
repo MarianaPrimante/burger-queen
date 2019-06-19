@@ -162,32 +162,32 @@ body {
     text-align: center;
   }
   .icon, .title {
-    font-size: 12px;
+    font-size: 16px;
   }
   .home {
     align-items: flex-end;
   }
   .button, .button-log {
     padding: 8px;
-    font-size: 40%;
+    font-size: 70%;
   }
   .log {
     margin: 0;
   }
   .name {
-    font-size: 10px;
+    font-size: 12px;
   }
   .menu-title {
-    font-size: 10px;
+    font-size: 12px;
     margin: 3px 0 3px 0;
   }
   .menu-order {
-    font-size: 8px;
+    font-size: 12px;
   }
   .button-cardap {
     max-width: 30vh;
     min-height: 12vw;
-    font-size: 40%;
+    font-size: 70%;
     margin: 1vh;
     text-align: center;
     padding: 1vh;
@@ -196,10 +196,10 @@ body {
     padding: 4% 0 0;
   }
   .menu {
-    font-size: 6px;
+    font-size: 12px;
   }
   .link {
-    font-size: 6px;
+    font-size: 10px;
   }
 }
 
