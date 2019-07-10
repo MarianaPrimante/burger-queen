@@ -20,21 +20,6 @@ JavaScript mais usados na área de desenvolvimento ao redor do mundo e existe um
 razão para isso. No contexto do navegador, [_manter a interface sincronizada com
 o estado é difícil_](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445).
 
-Ao eleger um _framework_ ou _biblioteca_ para nossa interface, nos apoiamos em
-uma série de convenções e implementações _testadas_ e _documentadas_ para
-resolver um problema comum a toda interface web. Isto nos permite concentrar
-melhor (dedicar mais tempo) nas características _específicas_ de nossa
-aplicação.
-
-Quando escolhemos uma destas tecnologias não só importamos um pedaço de código
-para reusar (o qual já é um grande valor por si só), mas também adotamos uma
-**arquitetura**, uma série de **princípios de design**, um paradigma, algumas
-**abstrações**, um **vocabulário**, uma **comunidade**, etc...
-
-Como desenvolvedora Front-end, estes kits de desenvolvimento podem resultar em
-uma grande ajuda para implementar rapidamente _features_ dos projetos em que
-você for trabalhar.
-
 ## 2. Resumo do projeto
 
 Desta vez temos um projeto 100% por demanda. Você sempre pode (e deve) fazer
@@ -92,7 +77,27 @@ A interface deve mostrar os dois menus (café da manhã e restante do dia), cada
 um com todos os seus _produtos_. O usuário deve poder escolher que _produtos_
 adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 
-![out](https://user-images.githubusercontent.com/110297/45984241-b8b51c00-c025-11e8-8fa4-a390016bee9d.gif)
+
+## Interface do produto
+![img3](images/img3.png)
+![img2](images/img2.png)
+![img4](images/img4.png)
+![img](images/img.png)
+![img1](images/img1.png)
+
+## Simulação de login
+
+```
+Usuário Salão: Teste1
+email:teste1@gmail.com  
+senha:teste1
+```
+
+```
+Usuário Cozinha: Teste2
+email:teste2@gmail.com  
+senha:teste2
+```
 
 ## 3. Objetivos de aprendizagem
 
@@ -230,13 +235,6 @@ Eu como garçom/garçonete quero ver os pedidos que estão prontos para entregá
 * Os dados devem ser mantidos intactos, mesmo depois que um pedido terminado. Tudo isso para poder ter estatísticas no futuro.
 
 ***
-
-## Interface do produto
-![img3](images/img3.png)
-![img2](images/img2.png)
-![img4](images/img4.png)
-![img](images/img.png)
-![img1](images/img1.png)
 
 ## Road Map
 ### v1.0.0
