@@ -77,13 +77,13 @@ A interface deve mostrar os dois menus (café da manhã e restante do dia), cada
 um com todos os seus _produtos_. O usuário deve poder escolher que _produtos_
 adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 
-
 ## Interface do produto
 ![img3](images/img3.png)
 ![img2](images/img2.png)
 ![img4](images/img4.png)
 ![img](images/img.png)
 ![img1](images/img1.png)
+
 
 ## Simulação de login
 
