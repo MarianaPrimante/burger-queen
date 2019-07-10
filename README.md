@@ -84,17 +84,18 @@ adicionar e a interface deve mostrar o _resumo do pedido_ com o custo total.
 ![img](images/img.png)
 ![img1](images/img1.png)
 
-### Simulação de login
+
+## Simulação de login
 
 ```
-Funcionário Salão: Teste1
-email:teste1@gmail.com
+Usuário Salão: Teste1
+email:teste1@gmail.com  
 senha:teste1
 ```
 
 ```
-Funcionário Cozinha: Teste2
-email:teste2@gmail.com
+Usuário Cozinha: Teste2
+email:teste2@gmail.com  
 senha:teste2
 ```
 
